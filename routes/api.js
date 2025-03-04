@@ -30,23 +30,23 @@ loghandler = {
 	noapikey: {
 		status: 403,
 		message: "Masukkan parameter apikey",
-		maintanied_by: `Zeltoria`,
+		maintanied_by: `Kenz Market`,
 	},
 	error: {
 		status: 503,
 		message: "Sedang Dalam Perbaikan Cuy",
-		maintanied_by: `Zeltoria`,
+		maintanied_by: `Kenz Market`,
 	},
 	apikey: {
 		status: 403,
 		message:
-			"Forbiden, Invalid apikey, hubungi saya di whatsapp untuk mendapatkan apikey anda",
-		maintanied_by: `Zeltoria`,
+			"Forbiden, invalid apikey, hubungi saya di whatsapp untuk mendapatkan apikey anda",
+		maintanied_by: `Kenz Market`,
 	},
 	noturl: {
 		status: 403,
 		message: "Forbiden, Invlid url, masukkan parameter url",
-		maintanied_by: `Zeltoria`,
+		maintanied_by: `Kenz Market`,
 	},
 };
 
